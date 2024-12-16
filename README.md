@@ -1,3 +1,3 @@
 # SourceMod plugins
 
-List of future plugins for SourceMod
+[List](https://github.com/dronelektron/sourcemod-plugins/issues) of future plugins for SourceMod
